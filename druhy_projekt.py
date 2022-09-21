@@ -3,7 +3,7 @@
 Projekt_2.py: Druhý projekt do Engeto Online Python Akadeie
 
 author: Jiří Mlčkovský
-email: jirkamlc@seznam.cz
+email: jirimlckovsky.obchod@post.cz
 discord:nemám založený profil na discordu
 """
 import random
